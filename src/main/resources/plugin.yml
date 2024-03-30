@@ -1,0 +1,4 @@
+name: ItemStorage
+version: '${version}'
+main: net.ledestudio.itemstorage.ItemStorage
+api-version: '1.20'
